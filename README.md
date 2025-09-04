@@ -35,3 +35,13 @@ L’objectif était de mettre en place une infrastructure simple sur **AWS** per
 - Suppression des fichiers temporaires après upload.  
 
 Chaque image devient accessible publiquement via une URL, par exemple :  
+https://poke-scrapper-noam.s3.eu-north-1.amazonaws.com/images/genI/70px-0001Bulbasaur.png
+
+Et voici la demo du Scraping puis de l'envoie des images de EC" à S3 :
+https://drive.google.com/file/d/1fr3lqZjkh9wai2sRtUvv0JASNoSicOvJ/view?usp=sharing
+
+## 🗂️ Architecture
+
+<img width="789" height="366" alt="Capture d’écran 2025-09-04 à 14 07 14" src="https://github.com/user-attachments/assets/88a2bca3-27b5-458b-974a-24da85ef2a8e" />
+
+
