@@ -44,4 +44,10 @@ https://drive.google.com/file/d/1fr3lqZjkh9wai2sRtUvv0JASNoSicOvJ/view?usp=shari
 
 <img width="789" height="366" alt="Capture d’écran 2025-09-04 à 14 07 14" src="https://github.com/user-attachments/assets/88a2bca3-27b5-458b-974a-24da85ef2a8e" />
 
+## 🗂️ IAM, Role et Policy
+User IAM que nous utilisons pour éviter d'avoir à utiliser le root qui a donc accès à S3 et EC2 ainsi que IAM temporairement pour la création du rôle de l'EC2
+<img width="1000" height="600" alt="Capture d’écran 2025-09-04 à 14 31 06" src="https://github.com/user-attachments/assets/1052b90c-7a4a-46b1-9154-6f3d71644649" />
+
+VOici le role qu'on donne à l'instance pour qu'elle puisse passer les images de EC2 à S3 :
+<img width="1000" height="600" alt="Capture d’écran 2025-09-04 à 14 33 02" src="https://github.com/user-attachments/assets/2aa046df-a29d-4843-b6c1-4ef67cd5b8a9" />
 
